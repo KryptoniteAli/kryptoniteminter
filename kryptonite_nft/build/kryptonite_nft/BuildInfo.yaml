@@ -7,7 +7,7 @@ compiled_package_info:
     kryptonite_nft: "0000000000000000000000000000000000000000000000000000000000000000"
     stardust: 000000000000000000000000000000000000000000000000000000000000107a
     std: "0000000000000000000000000000000000000000000000000000000000000001"
-  source_digest: 681EB8516162AB546458697CF193BAA51AC78CDDB651386155EC34907A0D14AA
+  source_digest: C0B35E53C319CC4B452CD461BFB0E0E2159424FDD760A9149F4EDAF38F8D2559
   build_flags:
     dev_mode: false
     test_mode: false
@@ -34,7 +34,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/iotaledger/iota.git"
-              git_rev: b1b37ed9d5ff64cbbfb3aa1ebd9b9431a0337311
+              git_rev: 431ab686e6f1d4abd83b16dd7c671712002ecac8
               subdir: crates/iota-framework/packages/iota-framework
           subst: ~
           digest: ~
@@ -44,7 +44,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/iotaledger/iota.git"
-              git_rev: b1b37ed9d5ff64cbbfb3aa1ebd9b9431a0337311
+              git_rev: 431ab686e6f1d4abd83b16dd7c671712002ecac8
               subdir: crates/iota-framework/packages/iota-system
           subst: ~
           digest: ~
@@ -54,7 +54,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/iotaledger/iota.git"
-              git_rev: b1b37ed9d5ff64cbbfb3aa1ebd9b9431a0337311
+              git_rev: 431ab686e6f1d4abd83b16dd7c671712002ecac8
               subdir: crates/iota-framework/packages/move-stdlib
           subst: ~
           digest: ~
@@ -64,7 +64,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/iotaledger/iota.git"
-              git_rev: b1b37ed9d5ff64cbbfb3aa1ebd9b9431a0337311
+              git_rev: 431ab686e6f1d4abd83b16dd7c671712002ecac8
               subdir: crates/iota-framework/packages/stardust
           subst: ~
           digest: ~

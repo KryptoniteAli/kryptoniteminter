@@ -1,5 +1,4 @@
 module kryptonite_nft::kryptonite_nft {
-
     use std::string::{String, utf8};
 
     use iota::display;
